@@ -19,5 +19,9 @@
   "homepage": "https://github.com/m-tambo/modern-javascript-tools#readme",
   "dependencies": {
     "node-sass": "^4.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
   }
 }

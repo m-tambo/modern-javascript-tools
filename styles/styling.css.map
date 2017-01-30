@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styling.css",
+	"sources": [
+		"styling.scss",
+		"_important.scss",
+		"_colors.scss",
+		"_headings.scss"
+	],
+	"names": [],
+	"mappings": "ACEA,AAAW,UAAD,CAAC,EAAE,AAAC,CACZ,KAAK,CAAC,IAAI,CACX,AAED,AAAW,UAAD,CAAC,CAAC,AAAC,CACX,KAAK,CAAC,MAAM,CACb,AEND,AAAA,EAAE,AAAC,CACD,KAAK,CDHQ,IAAI,CCIlB,AAED,AAAA,EAAE,AAAC,CACD,KAAK,CDPQ,IAAI,CCQlB"
+}

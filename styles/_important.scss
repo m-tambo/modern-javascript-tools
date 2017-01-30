@@ -1,2 +1,9 @@
-@import '_colors.scss';
-.important h1{color:blue}.important p{color:orange}
+@import 'colors';
+
+.important h1 {
+  color:blue;
+}
+
+.important p {
+  color:orange;
+}
